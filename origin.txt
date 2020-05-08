@@ -1,0 +1,2204 @@
+Uri: http://52.1.27.136/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/static/css/star.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\star.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stars.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stars.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/images/logo-1-122x122.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\logo-1-122x122.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/?
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\index-1.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/dashboard/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\dashboard\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/proshow/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\proshow\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/events/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/gallery/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\gallery\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/team/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\team\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/sponsors/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\sponsors\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/about/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\about\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/static/images/satellite.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\satellite.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/images/astronaut .png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\astronaut .png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/images/moon.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\moon.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/images/TITILE AND DATES.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\TITILE AND DATES.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/images/logo.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\logo.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/js/app.js.download
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\app.js.bin
+Content Type: application/octet-stream
+
+Uri: http://52.1.27.136/static/css/space2.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\space2.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/css/csscldash
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\csscldash.bin
+Content Type: application/octet-stream
+
+Uri: http://52.1.27.136/static/css/bootstrap.mincldash.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap.mincldash.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/swipercldash.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\swipercldash.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/ioniconscldash.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\ioniconscldash.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mobirise-iconscontact.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mobirise-iconscontact.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/tether.mincontact.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\tether.mincontact.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap.mincontact.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap.mincontact.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-grid.mincontact.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-grid.mincontact.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-reboot.mincontact.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-reboot.mincontact.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/styledropdowncontact.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\styledropdowncontact.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylethemecontact.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylethemecontact.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mbr-additionalcontact.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mbr-additionalcontact.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/accomodation/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\accomodation\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/dashboard/?page=2
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\dashboard\index-1.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/dashboard/?page=3
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\dashboard\index-2.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/dashboard/?page=4
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\dashboard\index-3.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/dashboard/?
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\dashboard\index-4.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/media/images/824f83df-a16f-4aaa-903b-5f9b350fb0c0.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\824f83df-a16f-4aaa-903b-5f9b350fb0c0.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/3287112d-e1ad-4eb8-ae76-8c5e7552701f.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\3287112d-e1ad-4eb8-ae76-8c5e7552701f.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/92a69614-9bf4-4c7f-b7fe-a52f07993580.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\92a69614-9bf4-4c7f-b7fe-a52f07993580.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/08a452a4-879f-47f4-b263-e714e99aad96.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\08a452a4-879f-47f4-b263-e714e99aad96.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/ae392b88-ea20-4389-95a8-ea6aaffe4096.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\ae392b88-ea20-4389-95a8-ea6aaffe4096.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/f66e08dc-1078-4299-a1ff-96a71134e13a.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\f66e08dc-1078-4299-a1ff-96a71134e13a.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/07b3bd8b-1256-441f-a275-4ff6f06941f7.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\07b3bd8b-1256-441f-a275-4ff6f06941f7.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/bf3dfef5-c3fd-41ee-8406-1e385dca348d.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\bf3dfef5-c3fd-41ee-8406-1e385dca348d.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/1253ef60-0bad-43d4-a86b-6c27d5177f3a.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\1253ef60-0bad-43d4-a86b-6c27d5177f3a.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/f54484a4-e9a5-4103-887e-e28f5a1c92ad.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\f54484a4-e9a5-4103-887e-e28f5a1c92ad.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/js/jquery.mincontact.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.mincontact.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/popper.mincontact.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\popper.mincontact.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/tether.mincontact.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\tether.mincontact.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap.mincontact.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap.mincontact.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/smooth-scrollcontact.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\smooth-scrollcontact.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/nav-dropdowncontact.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\nav-dropdowncontact.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/navbar-dropdowncontact.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\navbar-dropdowncontact.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jquery.touch-swipe.mincontact.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.touch-swipe.mincontact.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/scriptthemecontact.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\scriptthemecontact.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/images/proshow.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\proshow.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/css/bootstrap.minpro.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap.minpro.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/font-awesome.minpro.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\font-awesome.minpro.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/animate.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\animate.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/select2.min.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\select2.min.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/utilpro.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\utilpro.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mainpro.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mainpro.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mobirise-iconspreevents.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mobirise-iconspreevents.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/tether.minpreevents.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\tether.minpreevents.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap.minpreevents.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap.minpreevents.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-grid.minpreevents.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-grid.minpreevents.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-reboot.minpreevents.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-reboot.minpreevents.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/styledropdownpreevents.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\styledropdownpreevents.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylessocicondash.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylessocicondash.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylethemepreevents.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylethemepreevents.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mbr-additionalpreevents.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mbr-additionalpreevents.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/images/logo3.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\logo3.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/js/jquery-3.2.1.minpro.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery-3.2.1.minpro.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/popperpro.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\popperpro.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap.minpro.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap.minpro.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/select2.minpro.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\select2.minpro.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/moment.minpro.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\moment.minpro.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/moment-timezone.min.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\moment-timezone.min.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/moment-timezone-with-data.min.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\moment-timezone-with-data.min.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/countdowntime.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\countdowntime.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/tilt.jquery.minpro.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\tilt.jquery.minpro.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jquery.minpreevents.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.minpreevents.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/popper.minpreevents.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\popper.minpreevents.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap.minpreevents.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap.minpreevents.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/smooth-scrollpreevents.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\smooth-scrollpreevents.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/nav-dropdownpreevents.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\nav-dropdownpreevents.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/navbar-dropdownpreevents.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\navbar-dropdownpreevents.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jquery.touch-swipe.minpreevents.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.touch-swipe.minpreevents.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/pretechnical/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\pretechnical\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/events/workshops
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\workshops.html
+Content Type: text/html
+
+Uri: http://52.1.27.136/events/nontechnical
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\nontechnical.html
+Content Type: text/html
+
+Uri: http://52.1.27.136/events/paperpresentation
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\paperpresentation.html
+Content Type: text/html
+
+Uri: http://52.1.27.136/events/literaryevents
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\literaryevents.html
+Content Type: text/html
+
+Uri: http://52.1.27.136/posterpresentation/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\posterpresentation\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/prototypeexpo/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\prototypeexpo\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/mycertificates/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\mycertificates\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/static/css/tether.mingallery.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\tether.mingallery.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap.mingallery.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap.mingallery.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-grid.mingallery.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-grid.mingallery.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-reboot.mingallery.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-reboot.mingallery.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylesgallery.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylesgallery.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylegallery2.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylegallery2.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylegallery1.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylegallery1.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mbr-additionalgallery.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mbr-additionalgallery.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylegallery.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylegallery.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mobirise-iconsexplore.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mobirise-iconsexplore.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/tether.minexplore.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\tether.minexplore.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap.minexplore.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap.minexplore.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-grid.minexplore.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-grid.minexplore.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-reboot.minexplore.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-reboot.minexplore.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/styleexplore.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\styleexplore.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylesexplore.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylesexplore.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/style1explore.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\style1explore.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/style2explore.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\style2explore.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mbr-additionalexplore.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mbr-additionalexplore.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/images/amb5.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\amb5.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/pro3.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\pro3.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/nontech7.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\nontech7.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/tech3.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\tech3.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/amb2.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\amb2.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/pro2.JPG
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\pro2.JPG
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/nontech1.JPG
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\nontech1.JPG
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/nontech6.JPG
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\nontech6.JPG
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/pro13.JPG
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\pro13.JPG
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/js/jquery.mingallery.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.mingallery.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/popper.mingallery.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\popper.mingallery.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/tether.mingallery.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\tether.mingallery.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap.mingallery.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap.mingallery.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/smooth-scrollgallery.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\smooth-scrollgallery.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jquery.touch-swipe.mingallery.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.touch-swipe.mingallery.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap-carousel-swipegallery.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap-carousel-swipegallery.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/mbr-clients-slidergallery.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\mbr-clients-slidergallery.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/nav-dropdowngallery.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\nav-dropdowngallery.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/navbar-dropdowngallery.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\navbar-dropdowngallery.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/scriptgallery1.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\scriptgallery1.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/scriptgallery.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\scriptgallery.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/css/style1team.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\style1team.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/team/?
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\team\index-1.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/static/images/RAHUL CHIEF.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\RAHUL CHIEF.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/AKHIL CHIEF.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\AKHIL CHIEF.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/TARUN CHIEF.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\TARUN CHIEF.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/tejeswarpalla.jpeg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\tejeswarpalla.jpeg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/sai kiran.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\sai kiran.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/VIDYA.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\VIDYA.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/anuhya.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\anuhya.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/ANAND tech.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\ANAND tech.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/RAVIKANTH.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\RAVIKANTH.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/YESASWI.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\YESASWI.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/brahma.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\brahma.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/JAYANTH C.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\JAYANTH C.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/ALLAGANESH.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\ALLAGANESH.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/PAVAN.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\PAVAN.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/jayanth.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\jayanth.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/KRANTHI.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\KRANTHI.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/venkatesh.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\venkatesh.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/jagadesh.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\jagadesh.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/jayasurya.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\jayasurya.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/datri.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\datri.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/PHANI.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\PHANI.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/manjusha.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\manjusha.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/SRC.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\SRC.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/Kush.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\Kush.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/ASISH.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\ASISH.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/charan DESIGNING.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\charan DESIGNING.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/ADITYA.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\ADITYA.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/seeda.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\seeda.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/pranay.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\pranay.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/mohith.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\mohith.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/sai.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\sai.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/srisandeep.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\srisandeep.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/abhinav.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\abhinav.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/praveen.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\praveen.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/praneeth.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\praneeth.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/images/sunil.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\sunil.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/vardhan.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\vardhan.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/css/mobirise-iconsspon.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mobirise-iconsspon.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/tether.minspon.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\tether.minspon.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap.minspon.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap.minspon.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-grid.minspon.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-grid.minspon.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-reboot.minspon.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-reboot.minspon.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylessociconspon.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylessociconspon.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/styledropdownspon.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\styledropdownspon.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylethemespon.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylethemespon.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mbr-additionalspon.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mbr-additionalspon.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/images/1.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\1.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/images/2.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\2.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/images/3.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\3.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/images/4.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\4.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/images/5.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\5.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/static/js/jquery.minspon.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.minspon.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/popper.minspon.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\popper.minspon.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/tether.minspon.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\tether.minspon.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap.minspon.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap.minspon.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/smooth-scrollspon.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\smooth-scrollspon.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap-carousel-swipespon.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap-carousel-swipespon.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/mbr-clients-sliderspon.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\mbr-clients-sliderspon.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/nav-dropdownspon.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\nav-dropdownspon.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/navbar-dropdownspon.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\navbar-dropdownspon.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/scriptthemespon.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\scriptthemespon.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/images/nasa-q1p7bh3shj8-unsplash-2000x1331.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\nasa-q1p7bh3shj8-unsplash-2000x1331.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/css/mobirise-iconsabout.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mobirise-iconsabout.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/tetherabout.min.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\tetherabout.min.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap.minabout.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap.minabout.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-grid.minabout.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-grid.minabout.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-reboot.minabout.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-reboot.minabout.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/styledropdownabout.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\styledropdownabout.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylessociconabout.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylessociconabout.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylethemeabout.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylethemeabout.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mbr-additionalabout.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mbr-additionalabout.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/explore-19/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\explore-19\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/explore-18/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\explore-18\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/explore-17/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\explore-17\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/static/js/jquery.minabout.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.minabout.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/popper.minabout.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\popper.minabout.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/tether.minabout.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\tether.minabout.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap.minabout.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap.minabout.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/smooth-scrollabout.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\smooth-scrollabout.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/nav-dropdownabout.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\nav-dropdownabout.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/navbar-dropdownabout.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\navbar-dropdownabout.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jquery.touch-swipe.minabout.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.touch-swipe.minabout.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/scriptthemeabout.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\scriptthemeabout.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/images/loginbg.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\loginbg.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/css/stylelogin.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylelogin.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/contact/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\contact\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/password_reset/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\password_reset\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/signup/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\signup\index.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/static/js/scriptlogin.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\scriptlogin.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/scriptthemepreevents.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\scriptthemepreevents.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/css/mobirise-icons.eot?spat4u
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mobirise-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://52.1.27.136/static/css/mobirise-icons.ttf?spat4u
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mobirise-icons.bin
+Content Type: application/octet-stream
+
+Uri: http://52.1.27.136/static/css/mobirise-icons.woff?spat4u
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mobirise-icons.woff
+Content Type: application/font-woff
+
+Uri: http://52.1.27.136/static/css/mobirise-icons.svg?spat4u
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mobirise-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://52.1.27.136/dashboard/?page=1
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\dashboard\index-5.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/media/images/0e16d26f-4979-40ab-aedf-edbd277bca9a.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\0e16d26f-4979-40ab-aedf-edbd277bca9a.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/49a0602c-045f-40b2-84d8-f63620b5871b.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\49a0602c-045f-40b2-84d8-f63620b5871b.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/8d29a6cf-e07a-48fc-b4a3-38c6486493fa.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\8d29a6cf-e07a-48fc-b4a3-38c6486493fa.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/b2612a82-8086-4577-85c3-05f4bcba446a.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\b2612a82-8086-4577-85c3-05f4bcba446a.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/ad9d6eba-926c-426d-9097-13eed0a295fc.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\ad9d6eba-926c-426d-9097-13eed0a295fc.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/ee76c465-8013-4a7f-8733-4d41beec64a9.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\ee76c465-8013-4a7f-8733-4d41beec64a9.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/564979eb-ea72-4f6d-887c-52a97b0c9daa.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\564979eb-ea72-4f6d-887c-52a97b0c9daa.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/e345c5bd-cf1c-4917-a4b4-c05eb1b5bca9.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\e345c5bd-cf1c-4917-a4b4-c05eb1b5bca9.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/68ad54a9-e7e5-45a3-829a-8ec8d9adc1e0.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\68ad54a9-e7e5-45a3-829a-8ec8d9adc1e0.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/40028c4e-88d6-4551-b3a4-c317ac277cd5.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\40028c4e-88d6-4551-b3a4-c317ac277cd5.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/4563f2d0-4c6a-4194-b1b8-625b3d1f12bb.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\4563f2d0-4c6a-4194-b1b8-625b3d1f12bb.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/3250e958-80b6-4f75-a93b-8c85382341fd.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\3250e958-80b6-4f75-a93b-8c85382341fd.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/71fcddad-724d-4dd5-8d56-d382411ac0a0.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\71fcddad-724d-4dd5-8d56-d382411ac0a0.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/7bf66407-d3c5-4a23-bce2-73fe459c2008.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\7bf66407-d3c5-4a23-bce2-73fe459c2008.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/d15a64d8-b00e-412e-ab21-07c50dfeba74.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\d15a64d8-b00e-412e-ab21-07c50dfeba74.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/b682f161-f713-44f9-986b-0bb0702a8a0d.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\b682f161-f713-44f9-986b-0bb0702a8a0d.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/WhatsApp_Image_2019-10-14_at_12.43.34_AM.jpeg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\WhatsApp_Image_2019-10-14_at_12.43.34_AM.jpeg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/WhatsApp_Image_2019-10-14_at_12.25.48_AM.jpeg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\WhatsApp_Image_2019-10-14_at_12.25.48_AM.jpeg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/IMG_20191012_152014.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\IMG_20191012_152014.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Screenshot_2019-10-12-11-08-19-70.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Screenshot_2019-10-12-11-08-19-70.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/media/images/Screenshot_2019-10-12-11-07-50-64.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Screenshot_2019-10-12-11-07-50-64.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/media/images/dash.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\dash.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/media/images/IMG_20191011_090839.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\IMG_20191011_090839.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/photo.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\photo.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/72423178_2426843454256291_5898365612224151552_n.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\72423178_2426843454256291_5898365612224151552_n.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/IMG-20191004-WA0000.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\IMG-20191004-WA0000.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/IMG-20191003-WA0004.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\IMG-20191003-WA0004.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/IMG-20191003-WA0002.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\IMG-20191003-WA0002.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://52.1.27.136/static/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://52.1.27.136/static/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://52.1.27.136/static/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://52.1.27.136/static/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\fonts\fontawesome-webfont.bin
+Content Type: application/octet-stream
+
+Uri: http://52.1.27.136/static/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://52.1.27.136/static/fonts/socicon.eot
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\fonts\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://52.1.27.136/static/fonts/socicon.eot?
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\fonts\socicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://52.1.27.136/static/fonts/socicon.woff
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\fonts\socicon.woff
+Content Type: application/font-woff
+
+Uri: http://52.1.27.136/static/fonts/socicon.ttf
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\fonts\socicon.bin
+Content Type: application/octet-stream
+
+Uri: http://52.1.27.136/static/fonts/socicon.svg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\fonts\socicon.svg
+Content Type: image/svg+xml
+
+Uri: http://52.1.27.136/events/themebased
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\themebased.html
+Content Type: text/html
+
+Uri: http://52.1.27.136/events/departmentevents
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\departmentevents.html
+Content Type: text/html
+
+Uri: http://52.1.27.136/static/images/techbg.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\techbg.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/1.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\1.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/2_1.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\2_1.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/3.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\3.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Google_cloud_study_jam.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Google_cloud_study_jam.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/7.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\7.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/12.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\12.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/16.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\16.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/17.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\17.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/20.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\20.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/workshop_Data_Set_28.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\workshop_Data_Set_28.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/workshop_Data_Set_30.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\workshop_Data_Set_30.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Webp.net-compress-image_1.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Webp.net-compress-image_1.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/workshop_Data_Set_32.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\workshop_Data_Set_32.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/hyper_mesh-min.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\hyper_mesh-min.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/f1_race-min.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\f1_race-min.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/mobile_control-min.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\mobile_control-min.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Optimized-Solar_vehicle_Design.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Optimized-Solar_vehicle_Design.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Optimized-Automobile_prototyping.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Optimized-Automobile_prototyping.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/workshop_Data_Set_38.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\workshop_Data_Set_38.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/23.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\23.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/BA_8bUqTj4.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\BA_8bUqTj4.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Optimized-workshop_Data_Set_5.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Optimized-workshop_Data_Set_5.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Optimized-workshop_Data_Set_6.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Optimized-workshop_Data_Set_6.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Optimized-Painting.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Optimized-Painting.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Optimized-Mask_Making.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Optimized-Mask_Making.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Optimized-Mean_Stack.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Optimized-Mean_Stack.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Robotic_process_Automation.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Robotic_process_Automation.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/11.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\11.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/13.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\13.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Automation_Anywhere.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Automation_Anywhere.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/android_application_development.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\android_application_development.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/workshop_Data_Set_25.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\workshop_Data_Set_25.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Optimized-Development_of_iot.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Optimized-Development_of_iot.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/quadcopter-min.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\quadcopter-min.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/vehicleeeeeeeee_dynamics-min.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\vehicleeeeeeeee_dynamics-min.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Webp.net-compress-image.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Webp.net-compress-image.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/css/mobirise-iconstecheve.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mobirise-iconstecheve.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/tether.mintecheve.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\tether.mintecheve.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap.mintecheve.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap.mintecheve.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-reboot.mintecheve.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-reboot.mintecheve.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylessocicontecheve.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylessocicontecheve.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/styledropdowntecheve.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\styledropdowntecheve.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylethemetecheve.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylethemetecheve.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mbr-additionaltecheve.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mbr-additionaltecheve.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/styleproduct.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\styleproduct.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/events/workshops?
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\workshops-1.html
+Content Type: text/html
+
+Uri: http://52.1.27.136/static/js/jquery.mintecheve.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.mintecheve.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/popper.mintecheve.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\popper.mintecheve.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/tether.mintecheve.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\tether.mintecheve.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap.mintecheve.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap.mintecheve.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/smooth-scrolltecheve.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\smooth-scrolltecheve.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jquery.touch-swipe.mintecheve.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.touch-swipe.mintecheve.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jquery.mb.vimeo_playertecheve.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.mb.vimeo_playertecheve.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jarallax.mintecheve.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jarallax.mintecheve.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/nav-dropdowntecheve.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\nav-dropdowntecheve.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/navbar-dropdowntecheve.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\navbar-dropdowntecheve.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/scriptthemetecheve.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\scriptthemetecheve.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/scriptproduct.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\scriptproduct.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/images/nontech.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\nontech.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/escape_room_432Xb0L.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\escape_room_432Xb0L.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/ART_YOUR_THPUGHTS_CnhwmJt.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\ART_YOUR_THPUGHTS_CnhwmJt.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/light_weight.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\light_weight.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/MINI_OLYMPICS.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\MINI_OLYMPICS.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/space_invaders.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\space_invaders.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/treasure_hunt.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\treasure_hunt.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Webp.net-compress-image_2.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Webp.net-compress-image_2.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/space_wars_ejHGnr0.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\space_wars_ejHGnr0.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/electric_snake___lad_jvzgB.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\electric_snake___lad_jvzgB.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/guess_the_components.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\guess_the_components.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/heads_and_taila.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\heads_and_taila.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/ice_bucket.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\ice_bucket.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/pick_the_coins.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\pick_the_coins.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/prove_your_knowledge.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\prove_your_knowledge.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/selfie.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\selfie.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/balloon_pyramid.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\balloon_pyramid.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/can_u_guess.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\can_u_guess.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/lan_gaming.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\lan_gaming.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/moving_on_up.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\moving_on_up.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/pick_and_place.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\pick_and_place.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/rice_and_buttons.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\rice_and_buttons.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/the_maze.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\the_maze.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/KL_SAMYAK_GameCon1-0.png
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\KL_SAMYAK_GameCon1-0.png
+Content Type: image/png
+
+Uri: http://52.1.27.136/events/nontechnical?
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\nontechnical-1.html
+Content Type: text/html
+
+Uri: http://52.1.27.136/media/images/TRIPLE_TALK.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\TRIPLE_TALK.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/AUTHORS_PERCEPTION.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\AUTHORS_PERCEPTION.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/LETS_COMPARE.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\LETS_COMPARE.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/MAKE_ME_MUTE.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\MAKE_ME_MUTE.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/COSMOS.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\COSMOS.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/ENIGMA.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\ENIGMA.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/NEXUS.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\NEXUS.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/PICTO_PEN.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\PICTO_PEN.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/SPIN_LETTER.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\SPIN_LETTER.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/STEP_INTO_THE_BREACH.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\STEP_INTO_THE_BREACH.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/THESAURUS.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\THESAURUS.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/TRAIN_OF_THOUGHT.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\TRAIN_OF_THOUGHT.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/events/literaryevents?
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\literaryevents-1.html
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/profiles/profile/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-1.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/static/images/200.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\200.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/196.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\196.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/209.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\209.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/181d.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\181d.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/219.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\219.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/215.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\215.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/026.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\026.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/029.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\029.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/027.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\027.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/js/jquery.minexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.minexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/popper.minexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\popper.minexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/tether.minexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\tether.minexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap.minexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap.minexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/smooth-scrollexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\smooth-scrollexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/nav-dropdownexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\nav-dropdownexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/navbar-dropdownexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\navbar-dropdownexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/masonry.pkgd.minexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\masonry.pkgd.minexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/imagesloaded.pkgd.minexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\imagesloaded.pkgd.minexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap-carousel-swipeexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap-carousel-swipeexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jquery.mb.vimeo_playerexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.mb.vimeo_playerexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jquery.touch-swipe.minexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.touch-swipe.minexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/scriptexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\scriptexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/player.minexplore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\player.minexplore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/script1explore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\script1explore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/script2explore.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\script2explore.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/images/181b.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\181b.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/181.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\181.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/181a.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\181a.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/181e.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\181e.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/181j.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\181j.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/189.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\189.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/186.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\186.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/187.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\187.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/183.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\183.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/173.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\173.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/171.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\171.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/172.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\172.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/175.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\175.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/174.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\174.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/178.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\178.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/179.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\179.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/images/loginbg.jpeg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\images\loginbg.jpeg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/static/css/mobirise-iconsteam.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mobirise-iconsteam.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/tether.minteam.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\tether.minteam.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap.minteam.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap.minteam.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/bootstrap-reboot.minteam.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\bootstrap-reboot.minteam.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylessociconteam.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylessociconteam.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/styledropdownteam.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\styledropdownteam.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/stylethemeteam.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\stylethemeteam.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/css/mbr-additionalteam.css
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\css\mbr-additionalteam.css
+Content Type: text/css
+
+Uri: http://52.1.27.136/static/js/jquery.minteam.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.minteam.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/popper.minteam.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\popper.minteam.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/tether.minteam.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\tether.minteam.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/bootstrap.minteam.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\bootstrap.minteam.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/smooth-scrollteamassets.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\smooth-scrollteamassets.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jquery.touch-swipe.minteam.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.touch-swipe.minteam.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jquery.mb.vimeo_playerteam.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jquery.mb.vimeo_playerteam.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/jarallax.minteam.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\jarallax.minteam.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/nav-dropdownteam.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\nav-dropdownteam.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/navbar-dropdownteam.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\navbar-dropdownteam.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/static/js/scriptthemeteam.js
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\static\js\scriptthemeteam.js
+Content Type: application/javascript
+
+Uri: http://52.1.27.136/media/images/get_spaced_GHhuUpp.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\get_spaced_GHhuUpp.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/samyak_ctf_kJ3gZNe.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\samyak_ctf_kJ3gZNe.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/save_the_astronaut.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\save_the_astronaut.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/space_wanderer.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\space_wanderer.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/trusslt_1xaNOUY.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\trusslt_1xaNOUY.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/nocturne.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\nocturne.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/space_capsule.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\space_capsule.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/space_colonization.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\space_colonization.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/events/themebased?
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\themebased-1.html
+Content Type: text/html
+
+Uri: http://52.1.27.136/media/images/inmark.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\inmark.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Co_float.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Co_float.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/hover.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\hover.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Shell.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Shell.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/zap.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\zap.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_26.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_26.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_27.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_27.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_28.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_28.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_29.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_29.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_31.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_31.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_32.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_32.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_33.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_33.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_34.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_34.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_35.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_35.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_36.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_36.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_37.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_37.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_38.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_38.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_39.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_39.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_40.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_40.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_41.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_41.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_42.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_42.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_45.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_45.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_43_ubihHGa.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_43_ubihHGa.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_44_98AjZEv.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_44_98AjZEv.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_46.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_46.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_47.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_47.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_48.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_48.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_49.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_49.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_50.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_50.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_51.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_51.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_52.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_52.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_53.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_53.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_54.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_54.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_55.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_55.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/EVENT_TEMPLATE_Data_Set_56.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\EVENT_TEMPLATE_Data_Set_56.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/space_hunt.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\space_hunt.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/space_venatic.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\space_venatic.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/stella_debugger.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\stella_debugger.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/Webp.net-compress-image_jc369vz.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\Webp.net-compress-image_jc369vz.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/sun_path_and_design_process.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\sun_path_and_design_process.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/ad_selfie.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\ad_selfie.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/ancedote.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\ancedote.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/inquizitive.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\inquizitive.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/collction_king.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\collction_king.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/debate.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\debate.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/quiz.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\quiz.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/spell_bee.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\spell_bee.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/i_can_type.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\i_can_type.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/WORKSHOP.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\WORKSHOP.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/pharma_quiz.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\pharma_quiz.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/debate_qTqaSJu.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\debate_qTqaSJu.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/quiz_HDVB8Vk.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\quiz_HDVB8Vk.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/mock_parliment.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\mock_parliment.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/best_out_of_waste.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\best_out_of_waste.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/techquiz.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\techquiz.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/friendsloops.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\friendsloops.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/enigma_puzzle.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\enigma_puzzle.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/khoj_tech_treasurehu_dJLbi.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\khoj_tech_treasurehu_dJLbi.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/word_build.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\word_build.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/clean_bowled.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\clean_bowled.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/vegetable_carving.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\vegetable_carving.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/face_painting.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\face_painting.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/desk_decorating.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\desk_decorating.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/mehandi.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\mehandi.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/a_talk_on_scientific_leXU6.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\a_talk_on_scientific_leXU6.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/identification_of_pl_MzTD3.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\identification_of_pl_MzTD3.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/suggest_remidies.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\suggest_remidies.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/how_innovation_advan_GQQ3X.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\how_innovation_advan_GQQ3X.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/anthakshari.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\anthakshari.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/general_quiz.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\general_quiz.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/mock_parliment_l9TcuzW.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\mock_parliment_l9TcuzW.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/media/images/mock_united_nations.jpg
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\media\images\mock_united_nations.jpg
+Content Type: image/jpeg
+
+Uri: http://52.1.27.136/events/departmentevents?
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\events\departmentevents-1.html
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/order-summary/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-2.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/74/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-3.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/75/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-4.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/76/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-5.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/78/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-6.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/84/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-7.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/86/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-8.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/89/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-9.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/92/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-10.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/95/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-11.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/96/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-12.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/98/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-13.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/100/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-14.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/101/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-15.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/102/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-16.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/103/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-17.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/104/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-18.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/127/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-19.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/129/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-20.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/130/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-21.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/131/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-22.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/133/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-23.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/134/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-24.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/146/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-25.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/147/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-26.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/148/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-27.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/149/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-28.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/152/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-29.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/153/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-30.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/156/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-31.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/161/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-32.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/164/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-33.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/166/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-34.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/cart/add-to-cart/168/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-35.htm
+Content Type: text/html
+
+Uri: http://52.1.27.136/profiles/login/?next=/payments/registrationpayment/
+File Name: C:\Users\prane\Documents\samyak\52.1.27.136\profiles\login\index-36.htm
+Content Type: text/html
+
